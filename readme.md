@@ -12,3 +12,6 @@ This project is made using MERN Stack.
 - Express
 - React
 - Node.js
+
+##Author
+-Tejal Kamble 
