@@ -5,7 +5,7 @@ This application helps manage hostel students, rooms, and allocations efficientl
 
 ---
 
-## 🚀 Features
+## Features
 - Add new students
 - View student list
 - Add hostel rooms
@@ -14,7 +14,7 @@ This application helps manage hostel students, rooms, and allocations efficientl
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - MongoDB (Database)
 - Express.js (Backend Framework)
 - React.js (Frontend)
